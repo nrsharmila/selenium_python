@@ -1,0 +1,4 @@
+input:
+  website: "www.facebook.com"
+  sleep: "10"
+  status: "successfully executed"
